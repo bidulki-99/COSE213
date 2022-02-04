@@ -1,12 +1,3 @@
-/** 
-  * Assignment 4 for COSE213 Data Structures
-  *
-  * Won-Ki Jeong (wkjeong@korea.ac.kr)
-  *
-  * 2021. 11. 21
-  *
-  */
-  
 #include "LinkedBinaryTree.h"
 #include "SearchTree.h" 
 #include "AVLTree.h"
